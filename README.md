@@ -4,7 +4,7 @@ I have hands-on experience with Kali Linux and various cyber security tools used
 I possess programming skills that support secure application development and problem-solving in cyber security domains.<br><br>
 
 <strong>Languages</strong><br>
-C, Java, HTML, CSS, JavaScript<br><br>
+C, Java, Python, HTML, CSS, JavaScript<br><br>
 
 <strong>Cyber Security Tools</strong><br>
 Kali Linux, Nmap, John the Ripper, Burp Suite, Wireshark<br><br>
